@@ -1,10 +1,9 @@
 <h1 align="center">42</h1>
 
-<!-- ![42 rio logo](assets/42_rio_logo_white.png) -->
+<p align="center">This repository is a hub to all my projects from 42 cursus.</p>
 
 <img align="center" src="./assets/42_rio_logo_white.png">
 
-This repository is a hub to all my projects from 42 cursus.
 
 
 | Project                                                      | Technologies | Description                                                                                                                     | Grade             |
