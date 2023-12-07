@@ -2,7 +2,10 @@
 
 <p align="center">This repository is a hub to all my projects from 42 cursus.</p>
 
-<img align="center" height="400px" src="./assets/42_rio_logo_white.png">
+<p align="center">
+  <img height="400px" src="./assets/42_rio_logo_white.png">
+</p>
+
 
 
 
