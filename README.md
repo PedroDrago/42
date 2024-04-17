@@ -6,17 +6,20 @@
   <img height="400px" src="./assets/42_rio_logo_white.png">
 </p>
 
-
-
-
-| Project                                                      | Technologies | Description                                                                                                                        | Grade             |
-| ------------------------------------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [Libft](https://github.com/PedroDrago/libft)                 | C            | My own implementation of several libc functions, and some extra!                                                                   | 125/100           |
-| [ft_printf](https://github.com/PedroDrago/ft_printf)         | C            | My your own implementation of the `printf` function.                                                                               | 100/100           |
-| [get_next_line](https://github.com/PedroDrago/get_next_line) | C            | A function that always returns the next line from a file descriptor.                                                               | 125/100           |
-| [Born2beroot](https://github.com/PedroDrago/born2beroot)     | Linux        | The goal was to build a Virtual Machine configured to be a server.                                                                 | 125/100           |
-| [Minitalk](https://github.com/PedroDrago/minitalk)           | C            | A server/Client communication using exclusively Unix Signals.                                                                      | 110/100           |
-| [So_long](https://github.com/PedroDrago/so_long)             | C            | A 2D game programmed without any engine, using only a library based on X11 and my own tools                                        | 125/100           |
-| [Push_Swap](https://github.com/PedroDrago/push_swap)         | C            | An Algorithms and Data-Structure project, with the objective to learn to sort a stack with as few operations as possible.          |  91/100           |
-| [Philosophers](https://github.com/PedroDrago/Philosophers)   | C            | A project about Threads, Mutexes and Semaphores                                                                                    | Not Evaluated Yet |
-| [Minishell](https://github.com/PedroDrago/Minishell)         | C            | A project in pairs with the aim of developing a shell, in C, inspired by bash.                                                     | Not Evaluated Yet |
+| Project                                                      | Technologies     | Description                                                                                                                        | Grade             |
+| ------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [ft_printf](https://github.com/PedroDrago/ft_printf)         | C                | A `printf` implementation.                                                                                                         | 100/100           |
+| [Libft](https://github.com/PedroDrago/libft)                 | C                | A library that implements several libc functions.                                                                                  | 125/100           |
+| [get_next_line](https://github.com/PedroDrago/get_next_line) | C                | A function that reads a file descriptor line by line.                                                                              | 125/100           |
+| [Born2beroot](https://github.com/PedroDrago/born2beroot)     | Linux            | A project with the goal of configuring a Virtual Machine to serve as a server.                                                     | 125/100           |
+| [Minitalk](https://github.com/PedroDrago/minitalk)           | C                | A server/Client communication using exclusively Unix Signals.                                                                      | 110/100           |
+| [So_long](https://github.com/PedroDrago/so_long)             | C                | A 2D game using a custom X11 API.                                                                                                  | 125/100           |
+| [Push_Swap](https://github.com/PedroDrago/push_swap)         | C                | A stack sorter that aims to sort with as few operations as possible.                                                               |  91/100           |
+| [Philosophers](https://github.com/PedroDrago/Philosophers)   | C                | A Parallel simulation with Threads, Proccesses, Mutexes and Semaphores.                                                            | Not Evaluated Yet |
+| [Minishell](https://github.com/PedroDrago/Minishell)         | C                | A shell from scratch.                                                                                                              | Not Evaluated Yet |
+| [Cube3D](https://github.com/PedroDrago/Cube3D)               | C                | A 3D RayCasting Game inspired by Wolfenstein 3D.                                                                                   | Not Evaluated Yet |
+| [NetPractice](https://github.com/PedroDrago/netpractice)     | Networks         | A series of Computer Networking exercises.                                                                                         | Not Evaluated Yet |
+| [C++](https://github.com/PedroDrago/cpp)                     | C++              | A series of C++ Exercises focused on OOP.                                                                                          | Not Evaluated Yet |
+| [WebServ](https://github.com/PedroDrago/webserv)             | C++              | A HTTP Server from scratch.                                                                                                        | Not Evaluated Yet |
+| [Inception](https://github.com/PedroDrago/inception)         | Docker           | ?                                                                                                                                  | Not Evaluated Yet |
+| [ft_transcendence](https://github.com/pedrodrago/inception)  | modern web stack | ?                                                                                                                                  | not evaluated yet |
