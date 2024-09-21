@@ -8,7 +8,7 @@
 
 | Project                                                      | Technologies     | Description                                                                                                                        | Grade             |
 | ------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [C Piscine](https://github.com/PedroDrago/42-piscine)        | C/Shell          | A series of exercise lists for C and Shell.                                                                                        |                   |
+| [C Piscine](https://github.com/PedroDrago/42-piscine)        | C \| Shell          | A series of exercise lists for C and Shell.                                                                                        |                   |
 | [Libft](https://github.com/PedroDrago/libft)                 | C                | A library that implements several libc functions.                                                                                  | 125/100           |
 | [ft_printf](https://github.com/PedroDrago/ft_printf)         | C                | A `printf` implementation.                                                                                                         | 100/100           |
 | [get_next_line](https://github.com/PedroDrago/get_next_line) | C                | A function that reads a file descriptor line by line.                                                                              | 125/100           |
