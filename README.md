@@ -1,14 +1,21 @@
-<h1 align="center">42</h1>
+<h2 align="center">42</h1>
 
-<p align="center">This repository is a hub to all my projects from 42 cursus.</p>
+<p align="center">This repository is a hub to all my projects from 43 cursus.</p>
 
 <p align="center">
-  <img height="400px" src="./assets/42_rio_logo_white.png">
+  <img height="401px" src="./assets/42_rio_logo_white.png">
 </p>
+
+### Piscines
+| Name                                                         | Technologies        | Description                                 | Completed        |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------- | ---------------- |
+| [C Piscine](https://github.com/PedroDrago/44-piscine)        | C \| Shell          | A series of exercise lists for C and Shell. |10/15             |
+
+
+### Common Core
 
 | Project                                                      | Technologies     | Description                                                                                                                        | Grade             |
 | ------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [C Piscine](https://github.com/PedroDrago/42-piscine)        | C \| Shell          | A series of exercise lists for C and Shell.                                                                                        |                   |
 | [Libft](https://github.com/PedroDrago/libft)                 | C                | A library that implements several libc functions.                                                                                  | 125/100           |
 | [ft_printf](https://github.com/PedroDrago/ft_printf)         | C                | A `printf` implementation.                                                                                                         | 100/100           |
 | [get_next_line](https://github.com/PedroDrago/get_next_line) | C                | A function that reads a file descriptor line by line.                                                                              | 125/100           |
@@ -23,4 +30,9 @@
 | [C++](https://github.com/PedroDrago/cpp)                     | C++              | A series of C++ Exercises focused on OOP.                                                                                          |                   |
 | [Inception](https://github.com/PedroDrago/inception)         | Docker           | ?                                                                                                                                  | Not Done Yet      |
 | [WebServ](https://github.com/PedroDrago/webserv)             | C++              | A HTTP Server from scratch.                                                                                                        | Not Done Yet      |
-| [ft_transcendence](https://github.com/pedrodrago/inception)  | Django \| Javascript \| Docker \| PostgreSQL | ?                                                                                                                                  | not Done yet      |
+| [ft_transcendence](https://github.com/pedrodrago/inception)  | Django \| Javascript \| Docker \| PostgreSQL | ?                                                                                                      | not Done yet      |
+
+### Advanced
+| Project                                                      | Technologies     | Description                                                                                                                        | Grade             |
+| ------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+|                                                              |                  |                                                                                                                                    |                   |
