@@ -1,6 +1,6 @@
 <h2 align="center">42</h1>
 
-<p align="center">This repository is a hub to all my projects from 43 cursus.</p>
+<p align="center">This repository is a hub to all my projects from 42 cursus.</p>
 
 <p align="center">
   <img height="401px" src="./assets/42_rio_logo_white.png">
@@ -19,7 +19,7 @@
 | [Libft](https://github.com/PedroDrago/libft)                 | C                | A library that implements several libc functions.                                                                                  | 125/100           |
 | [ft_printf](https://github.com/PedroDrago/ft_printf)         | C                | A `printf` implementation.                                                                                                         | 100/100           |
 | [get_next_line](https://github.com/PedroDrago/get_next_line) | C                | A function that reads a file descriptor line by line.                                                                              | 125/100           |
-| [Born2beroot](https://github.com/PedroDrago/born2beroot)     | Linux            | A project with the goal of configuring a Virtual Machine to serve as a server.                                                     | 125/100           |
+| [Born2beroot](https://github.com/PedroDrago/born2beroot)     | Linux            | A project with the goal of configuring a Virtual Machine to act as a server.                                                       | 125/100           |
 | [Minitalk](https://github.com/PedroDrago/minitalk)           | C                | A server/Client communication using exclusively Unix Signals.                                                                      | 110/100           |
 | [So_long](https://github.com/PedroDrago/so_long)             | C                | A 2D game using a custom X11 API.                                                                                                  | 125/100           |
 | [Push_Swap](https://github.com/PedroDrago/push_swap)         | C                | A stack sorter that aims to sort with as few operations as possible.                                                               |  91/100           |
