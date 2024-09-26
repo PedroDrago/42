@@ -2,10 +2,6 @@
 
 <p align="center">This repository is a hub to all my projects from 42 cursus.</p>
 
-<p align="center">
-  <img height="401px" src="./assets/42_rio_logo_white.png">
-</p>
-
 ### Piscines
 | Name                                                         | Technologies        | Description                                 | Completed        |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------- | ---------------- |
