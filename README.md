@@ -32,7 +32,7 @@
 | [WebServ](https://github.com/PedroDrago/webserv)             | C++              | A HTTP Server from scratch.                                                                                                        | Not Done Yet      |
 | [ft_transcendence](https://github.com/pedrodrago/inception)  | Django \| Javascript \| Docker \| PostgreSQL |                                                                                                        | not Done yet      |
 
-### Advanced
+### 42 Advanced
 | Project                                                      | Technologies     | Description                                                                                                                        | Grade             |
 | ------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 |                                                              |                  |                                                                                                                                    |                   |
