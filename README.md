@@ -28,9 +28,9 @@
 | [Cub3D](https://github.com/PedroDrago/Cub3D)                 | C                | A pseudo 3D Game inspired by Wolfenstein 3D.                                                                                       | 125/100           |
 | [NetPractice](https://github.com/PedroDrago/netpractice)     | Networks         | A series of Computer Networking exercises.                                                                                         | Work in Progress  |
 | [C++](https://github.com/PedroDrago/cpp)                     | C++              | A series of C++ Exercises focused on OOP.                                                                                          |                   |
-| [Inception](https://github.com/PedroDrago/inception)         | Docker           | ?                                                                                                                                  | Not Done Yet      |
+| [Inception](https://github.com/PedroDrago/inception)         | Docker           |                                                                                                                                    | Not Done Yet      |
 | [WebServ](https://github.com/PedroDrago/webserv)             | C++              | A HTTP Server from scratch.                                                                                                        | Not Done Yet      |
-| [ft_transcendence](https://github.com/pedrodrago/inception)  | Django \| Javascript \| Docker \| PostgreSQL | ?                                                                                                      | not Done yet      |
+| [ft_transcendence](https://github.com/pedrodrago/inception)  | Django \| Javascript \| Docker \| PostgreSQL |                                                                                                        | not Done yet      |
 
 ### Advanced
 | Project                                                      | Technologies     | Description                                                                                                                        | Grade             |
