@@ -22,9 +22,9 @@
 | [Philosophers](https://github.com/PedroDrago/Philosophers)   | C                | A Parallel simulation with Threads, Proccesses, Mutexes and Semaphores.                                                            | 121/100           |
 | [Minishell](https://github.com/PedroDrago/Minishell)         | C                | A POSIX shell from scratch.                                                                                                        | 101/100           |
 | [Cub3D](https://github.com/PedroDrago/Cub3D)                 | C                | A pseudo 3D Game inspired by Wolfenstein 3D.                                                                                       | 125/100           |
-| [NetPractice](https://github.com/PedroDrago/netpractice)     | Networks         | A series of Computer Networking exercises.                                                                                         | Work in Progress  |
+| [NetPractice](https://github.com/PedroDrago/netpractice)     | Networks         | A series of Computer Networking exercises.                                                                                         | 100/100           |
 | [C++](https://github.com/PedroDrago/cpp)                     | C++              | A series of C++ Exercises focused on OOP.                                                                                          |                   |
-| [Inception](https://github.com/PedroDrago/inception)         | Docker           |                                                                                                                                    | Not Done Yet      |
+| [Inception](https://github.com/PedroDrago/inception)         | Docker           | Orchestrate multiple services running in docker containers using docker compose.                                                   | Work in Progress  |
 | [WebServ](https://github.com/PedroDrago/webserv)             | C++              | A HTTP Server from scratch.                                                                                                        | Not Done Yet      |
 | [ft_transcendence](https://github.com/pedrodrago/inception)  | Django \| Javascript \| Docker \| PostgreSQL |                                                                                                        | not Done yet      |
 
